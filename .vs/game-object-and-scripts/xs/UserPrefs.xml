@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{52100490-FB99-152D-D8D2-1E7611F32ACD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Clock.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Clock.cs" Line="19" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="game-object-and-scripts" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Clock.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7bfb4594-c3b7-434c-a856-9bdd40b7db50" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
